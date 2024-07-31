@@ -1,0 +1,6 @@
+domains:
+- axum-starter-srctkrs.wasmer.app
+kind: wasmer.io/App.v0
+name: srctkrs-ts-ax
+owner: srctkrs
+package: .
